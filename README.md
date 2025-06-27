@@ -16,6 +16,6 @@ This project demonstrates how to manually build, train, and optimize a neural ne
 ## Getting Started
 
 ```bash
-git clone https://github.com/yourusername/manual_nn_regression.git
+https://github.com/VikramanT/manual-nn-pytorch-regression.git
 cd manual_nn_regression
 pip install -r requirements.txt
